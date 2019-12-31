@@ -3,7 +3,22 @@ body{
 	
 }
 
+#text{
+	font-size: 30px;
+	font-family: Georgia;
+	position:absolute;
+	/*top:750px;
+	left:700px;*/
+}
+#text a:link{
+	color: #FFFFFF;
+	text-decoration: none;	
+}
 
+#text a:hover{
+	color: #990033;
+	text-decoration: none;	
+}
 
 /*#content{
 	background-color: #FFFFCC;
